@@ -6,4 +6,4 @@
 
 # The git repository also includes our ALSA code, which was used in initial stages but was abandoned due to latency issues. 
 # However we have provided it for your review.
-# The folder also includes the RTES_Oculus folder which contains the scenario used for virtual reality
+# The folder also includes the RTES_Oculus_Unity_files folder which contains the scenario used for virtual reality
